@@ -44,5 +44,4 @@ Check out my [repositories](https://github.com/Melon-Oof?tab=repositories) for m
 
 ## 📊 GitHub Stats
 
-![MelonOof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melon-Oof&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melon-Oof&layout)
+![MelonOof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melon-Oof&show_icons=true&theme=radical) 
