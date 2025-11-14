@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Student and a Configurator for PaperMC based
 - 🌱 **Learning**: C++, Java, HTML, CSS
 - 💡 **Interests**: Chess, OOP, Videogames, Servers
 - 📍 **Location**: Italy
-- 😄 **Fun fact**: I know 4 spoken Languages (3 of which am great at)
+- 😄 **Fun fact**: I understand 4 spoken Languages (3 of which am fluent at)
 
 ---
 
