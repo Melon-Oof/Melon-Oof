@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Student and a Configurator for PaperMC based
 ## 🌟 About Me
 
 - 🔭 **Currently working on**: [HostList](https://github.com/Melon-Oof/HostList)
-- 🌱 **Learning**: C++, Java, HTML, CSS
+- 🌱 **Learning**: C++, Java, HTML, CSS, Assembly
 - 💡 **Interests**: Chess, OOP, Videogames, Servers
 - 📍 **Location**: Italy
 - 😄 **Fun fact**: I understand 4 spoken Languages (3 of which am fluent at)
