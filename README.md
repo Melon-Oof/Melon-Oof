@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a Student and a Configurator for PaperMC based
 ## 🚀 Featured Projects
 
 - **[Host List](https://github.com/Melon-Oof/HostList)**  
-  *Minecraft Only Hosting List. Composed by reliable hosts only.*  
+  *Minecraft Only Hosting List. Features some reliable hosting services.* 
   Tech: [Markdown]
 
 - **[HiddenBackend](https://github.com/Melon-Oof/HiddenBackend)**  
