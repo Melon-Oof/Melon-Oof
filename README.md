@@ -23,14 +23,14 @@ Welcome to my GitHub profile! I'm a Student and a Configurator for PaperMC based
 ![YAML](https://img.shields.io/badge/-YAML-FF0000?style=flat&logo=yaml&logoColor=white)
 
 - **Languages**: C++, Java, HTML5, CSS3, YAML Syntax
-- **Tools**: Maven
+- **Tools**: Maven, Gradle
 
 ---
 
 ## 🚀 Featured Projects
 
 - **[Host List](https://github.com/Melon-Oof/HostList)**  
-  *Minecraft Only Hosting List. Features some reliable hosting services.* 
+  *Minecraft Only Hosting List. Features some reliable hosting services. Inactive Project.* 
   Tech: [Markdown]
 
 - **[HiddenBackend](https://github.com/Melon-Oof/HiddenBackend)**  
