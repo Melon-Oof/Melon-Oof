@@ -31,11 +31,11 @@ Welcome to my GitHub profile! I'm a Student and a Configurator for PaperMC based
 
 - **[Host List](https://github.com/Melon-Oof/HostList)**  
   *Minecraft Only Hosting List. Features some reliable hosting services. Inactive Project.* 
-  Tech: [Markdown]
+  Tech: Markdown
 
 - **[HiddenBackend](https://github.com/Melon-Oof/HiddenBackend)**  
   *Pretty useless plugin for Minecraft*  
-  Tech: [Java]
+  Tech: Java
 
 
 Check out my [repositories](https://github.com/Melon-Oof?tab=repositories) for more!
