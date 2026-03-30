@@ -39,9 +39,3 @@ Welcome to my GitHub profile! I'm a Student and a Configurator for PaperMC based
 
 
 Check out my [repositories](https://github.com/Melon-Oof?tab=repositories) for more!
-
----
-
-## 📊 GitHub Stats
-
-![MelonOof's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melon-Oof&show_icons=true&theme=radical) 
